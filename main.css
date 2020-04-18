@@ -1,0 +1,8 @@
+body {
+  padding-top: 5rem;
+}
+
+.project-card {
+  margin: 4px;
+  width: calc(25% - 8px);
+}
